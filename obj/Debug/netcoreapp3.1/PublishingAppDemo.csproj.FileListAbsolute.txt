@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\bin\Debug\netcoreapp3.1\PublishingAppDemo.exe
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\bin\Debug\netcoreapp3.1\PublishingAppDemo.deps.json
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\bin\Debug\netcoreapp3.1\PublishingAppDemo.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\bin\Debug\netcoreapp3.1\PublishingAppDemo.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\bin\Debug\netcoreapp3.1\PublishingAppDemo.dll
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\bin\Debug\netcoreapp3.1\PublishingAppDemo.pdb
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\obj\Debug\netcoreapp3.1\PublishingAppDemo.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\obj\Debug\netcoreapp3.1\PublishingAppDemo.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\obj\Debug\netcoreapp3.1\PublishingAppDemo.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\obj\Debug\netcoreapp3.1\PublishingAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\obj\Debug\netcoreapp3.1\PublishingAppDemo.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\obj\Debug\netcoreapp3.1\PublishingAppDemo.dll
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\obj\Debug\netcoreapp3.1\PublishingAppDemo.pdb
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo\obj\Debug\netcoreapp3.1\PublishingAppDemo.genruntimeconfig.cache

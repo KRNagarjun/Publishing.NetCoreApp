@@ -1,0 +1,6 @@
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo.exe
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo.dll
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo.deps.json
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\L&T\PublishingAppDemo.pdb
+C:\Users\USER\OneDrive\Desktop\L&T\Humanizer.dll

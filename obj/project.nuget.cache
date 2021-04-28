@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ayU3Je55ueTuTowu5n9Id6X5NUoRTliIIf86nNkMv5liMC+jT2UQiUdk1839qqjhfeke3aQ/GbASrxAN9Z5qcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Desktop\\L&T\\PublishingAppDemo\\PublishingAppDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.9.9\\humanizer.core.2.9.9.nupkg.sha512"
+  ],
+  "logs": []
+}
